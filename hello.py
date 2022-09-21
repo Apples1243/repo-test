@@ -1,2 +1,2 @@
 print('push & pull')
-print(date)
+print('clone')
